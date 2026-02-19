@@ -12,6 +12,10 @@
   with optional <strong>Alpha-Beta pruning</strong>.
 </p>
 
+<p align="center">
+  <img src="preview.png" alt="Tic-Tac-Toe Minimax AI Agent – GUI Preview" width="800"/>
+</p>
+
 ---
 
 ## 📋 Assignment Information
